@@ -1,0 +1,98 @@
+*{
+    margin: 4px;
+    padding: 8px;
+}
+
+.main{
+    display: flex;
+    margin-top: 190px;
+    margin-left: 250px;
+    position: absolute;
+}
+
+
+.box1{
+    height: 340px;
+    width: 280px;
+    border: solid 2px black;
+    background-color: rgb(71, 71, 71);
+}
+.box2{
+    height: 340px;
+    width: 280px;
+    border: solid 2px black;
+    background-color: rgb(71, 71, 71);
+}
+.box3{
+    height: 340px;
+    width: 280px;
+    border: solid 2px black;
+    background-color: rgb(71, 71, 71);
+}
+
+.box1 h1{
+    margin-top: -15px;
+}
+.box2 h1{
+    margin-top: -15px;
+}
+.box3 h1{
+    margin-top: -15px;
+}
+.box1 p{
+    text-align: center;
+    margin-left: 45px;
+    margin-top: -15px;
+    height: 100px;
+    width: 180px;
+}
+.box2 p{
+    text-align: center;
+    margin-left: 45px;
+    margin-top: -15px;
+    height: 100px;
+    width: 180px;
+}
+.box3 p{
+    text-align: center;
+    margin-left: 45px;
+    margin-top: -15px;
+    height: 100px;
+    width: 180px;
+}
+.box1 button{
+    width: 250px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 16px;
+
+}
+
+
+.box2 button{
+    width: 250px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 16px;
+
+}
+
+.box3 button{
+    width: 250px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 16px;
+
+}
+img{
+    height: 150px;
+    width: 295.5px;
+    margin-left: -15.5px;
+    margin-top: -15.5px;
+}
